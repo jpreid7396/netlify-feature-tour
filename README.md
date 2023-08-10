@@ -6,6 +6,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
 
+Updating the README directly on main.
+
 ## About this example site
 
 This site provides a path to get started learning about Netlify features.
