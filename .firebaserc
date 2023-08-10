@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "netlify-feature-tour"
-  }
+    "default": "netlify-feature-tour",
+    "staging": "friendlychat-75ac4"
+  },
+  "targets": {},
+  "etags": {}
 }
